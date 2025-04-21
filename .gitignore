@@ -1,0 +1,21 @@
+# Frontend (Next.js)
+frontend/node_modules
+frontend/.next
+frontend/out
+frontend/.DS_Store
+frontend/*.log
+frontend/.env*.local
+
+# Backend (Python)
+backend/venv
+backend/__pycache__
+backend/*.pyc
+backend/*.log
+backend/.env
+backend/temp_youtube_data
+backend/rag_indices
+backend/.DS_Store
+
+# IDE specific
+.vscode/
+.idea/
